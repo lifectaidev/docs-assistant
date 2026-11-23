@@ -1,0 +1,7 @@
+employee_code,name,role,password
+CEO,社長,ceo,0000
+EMP001,山田一郎,employee,0001
+EMP002,佐藤二郎,employee,0002
+EMP003,鈴木三郎,employee,0003
+SOURCE,共通ソース管理者,source_manager,0004
+ADMIN,システム管理者,admin,0005
